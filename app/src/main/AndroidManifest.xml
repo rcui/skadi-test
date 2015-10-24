@@ -13,8 +13,8 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme" >
         <activity
-            android:name=".MainMenu"
-            android:label="@string/title_activity_main_menu"
+            android:name=".NavMenu"
+            android:label="@string/title_activity_nav_menu"
             android:theme="@style/AppTheme.NoActionBar" >
         </activity>
     </application>
