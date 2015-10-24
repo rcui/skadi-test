@@ -80,17 +80,15 @@ public class MainMenu extends AppCompatActivity
         // Handle navigation view item clicks here.
         int id = item.getItemId();
 
-        if (id == R.id.nav_a) {
+        if (id == R.id.nav_back) {
             // Handle the camera action
-        } else if (id == R.id.nav_b) {
+        } else if (id == R.id.nav_home) {
 
-        } else if (id == R.id.nav_c) {
+        } else if (id == R.id.nav_map) {
 
-        } else if (id == R.id.nav_d) {
+        } else if (id == R.id.nav_score) {
 
-        } else if (id == R.id.nav_d) {
-
-        } else if (id == R.id.nav_d) {
+        } else if (id == R.id.nav_settings) {
 
         }
 

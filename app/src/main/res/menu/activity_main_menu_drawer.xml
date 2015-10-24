@@ -3,18 +3,21 @@
 
     <group android:checkableBehavior="single">
 
-        <item android:id="@+id/nav_a" android:icon="@android:drawable/ic_menu_manage"
-            android:title="" />
-        <item android:id="@+id/nav_b" android:icon="@android:drawable/ic_menu_manage"
-            android:title="" />
-        <item android:id="@+id/nav_c" android:icon="@android:drawable/ic_menu_manage"
-            android:title="" />
+        <item android:id="@+id/nav_back" android:icon="@drawable/back_arrow"
+            android:title="Back" />
+        <item android:id="@+id/nav_home" android:icon="@drawable/home_button"
+            android:title="Home" />
+        <item android:id="@+id/nav_map" android:icon="@drawable/compass"
+            android:title="Map" />
+        <item android:id="@+id/nav_score" android:icon="@drawable/trophy_button"
+            android:title="Score" />
+
     </group>
 
-    <item android:title="Settings">
+    <item android:title="Preferences">
         <menu>
-            <item android:id="@+id/nav_d" android:icon="@android:drawable/ic_menu_manage"
-                android:title="" />
+            <item android:id="@+id/nav_settings" android:icon="@drawable/settings_button"
+                android:title="Settings" />
         </menu>
     </item>
 
