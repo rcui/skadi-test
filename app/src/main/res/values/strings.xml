@@ -10,7 +10,6 @@
     <string name="navigation_drawer_close">Close navigation drawer</string>
 
     <string name="action_settings">Settings</string>
-<<<<<<< HEAD
     <string name="title_activity_nav_menu">NavMenu</string>
     <string name="title_activity_home">Home</string>
     <string name="title_activity_menu">Menu</string>
@@ -22,13 +21,5 @@
         <item>Map</item>
         <item>Score</item>
     </string-array>
-=======
 
-    <string name="main_menu_drawer_back">Back</string>
-    <string name="main_menu_drawer_home">Home</string>
-    <string name="main_menu_drawer_map">Map</string>
-    <string name="main_menu_drawer_score">Score</string>
-    <string name="main_menu_drawer_preferences">Preferences</string>
-    <string name="main_menu_drawer_settings">Settings</string>
->>>>>>> 79d3eb6096d991d3b597d4fbd477eb2451317fe9
 </resources>
